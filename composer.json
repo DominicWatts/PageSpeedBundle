@@ -1,10 +1,10 @@
 {
   "name": "dominicwatts/pagespeedbundle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "require": {
     "yireo/magento2-webp2": "*",
     "yireo/magento2-next-gen-images": "*",
     "yireo/magento2-linkpreload": "*",
-    "elgentos/module-lightspee": "*"
+    "elgentos/module-lightspeed": "*"
   }
 }
