@@ -1,7 +1,7 @@
 {
   "name": "dominicwatts/pagespeedbundle",
   "description": "Magento 2 page speed bundle.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "config": {
     "allow-plugins": {
       "dealerdirect/phpcodesniffer-composer-installer": true,
@@ -17,7 +17,6 @@
     "yireo/magento2-webp2": "*",
     "yireo/magento2-next-gen-images": "*",
     "yireo/magento2-linkpreload": "*",
-    "elgentos/module-lightspeed": "*",
     "dominicwatts/minify": "*"
   },
   "repositories": [
